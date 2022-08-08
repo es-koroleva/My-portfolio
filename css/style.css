@@ -334,6 +334,17 @@ body {
     justify-content: flex-end;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #83807C;
+}
+
 @media (max-width: 1024px) {
     .container {
         max-width: 760px;
